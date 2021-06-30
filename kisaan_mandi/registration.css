@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+.navbar-brand {
+  color: black;
+}
+
+.login {
+  bottom: 20px;
+}
+
+.navbar {
+  height: 10px;
+
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+
+  color: #000;
+}
+
+footer {
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  color: #080707;
+  position: relative;
+  width: 100%;
+  margin-top: -370px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.panel {
+  margin-top: 70px;
+  width: 500px;
+  text-align: center;
+  position: relative;
+  left: 39pc;
+  opacity: 80px;
+}
+
+.panel-body {
+  opacity: 20;
+}
+
+.form-control {
+  opacity: 20;
+}
+
+.btn {
+  margin-bottom: 10px;
+}
+
+body {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.paragraph {
+  color: rgb(10, 10, 6);
+  position: relative;
+  bottom: 400px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#countrySelect {
+  margin-right: 0px;
+  position: relative;
+  right: 70px;
+  margin-bottom: 10px;
+}
+
+#citySelect {
+  position: relative;
+  right: 30px;
+}
+
+#showSelected {
+  position: relative;
+  left: 60px;
+}
+.mb-6 {
+  margin-top: 50px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+.df {
+  text-align: center;
+  margin-left: 390px;
+}
+.dl {
+  text-align: center;
+  margin-top: 400px;
+}
+.de {
+  margin-top: 50px;
+}
+.fd {
+  margin-left: -110px;
+}
+.nav a {
+  color: black;
+}
+#google_translate_element {
+  display: inline-block;
+  position: relative;
+
+  margin-left: 400px;
+}
+.k a:hover,
+.k a:active {
+  color: white;
+  border-bottom: 2px solid white;
+  border-radius: 8px;
+}
+/* .e {
+  padding-top: 39px;
+} */
+.btn-primary:hover,
+.btn-primary:active {
+  color: #fff;
+  background-color: #000000;
+  border-color: #204d74;
+}
+.nav > li > a:focus,
+.nav > li > a:hover {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+}
